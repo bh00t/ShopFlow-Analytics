@@ -15,7 +15,7 @@ ShopFlow is a production-grade Snowflake data warehouse built on the **Olist Bra
 
 The project was designed to do two things at once:
 
-1. **Pass the SnowPro Core certification** through 100% hands-on learning — no passive video watching
+1. **Master Snowflake by doing,** through 100% hands-on learning — no passive video watching
 2. **Build a portfolio project** that demonstrates real data engineering patterns used in production
 
 The architecture follows the **Medallion pattern** (Bronze → Silver → Gold), implemented in Snowflake as three schemas:
